@@ -6,6 +6,60 @@ Scenarios for scrum retrospective.
     
     
 # preface
+* Retrospectives
+  enable whole-team learning, act as catalysts for change, and gener-
+  ate action
+* Retrospectives help teams—even great ones—keep improving
+* But if you’re a
+  coach or team lead doing iterative development, you’re probably leading
+  your own retrospectives after each iteration
+  * You may even be rotating
+    the role among team members
+* When you talk to people on the team, find out about topics such as these:
+  * What did this iteration produce? 
+    * What was the team aiming for?
+    * How did the result meet (or not meet) expectations?
+  * What’s going on elsewhere in the organization that affects the team
+  as they go into the retrospective? 
+    * For example, are there rumors of layoffs? 
+    * Has there been a recent merger? 
+    * A canceled product?
+  * What is the history of previous project reviews? 
+    * What happened, and what was the follow-up?
+  * What are the relationships between team members
+    * how is their work interdependent? 
+    * What are their personal connections and working relationships?
+  * What are team members feeling? 
+    * What are their concerns or anxieties? 
+    * What are they excited about?
+  * What kind of outcome will achieve value for the time invested—
+  both for the retrospective sponsor and the team?
+  * How has the team worked with facilitators before?
+* Shaping the Goal for the Retrospective
+  * Here’s a goal that’s broader but still inappropriate: “Determine what
+    went wrong with testing.”
+      * A goal like this may send your team in the
+        wrong direction or may open the door for blame
+  * Useful goals for retrospectives include the following:
+    * Find ways to improve our practices.
+    * Discover what we were doing well.
+    * Understand reasons behind missed targets.
+    * Find ways to improve our responsiveness to customers.
+    * Rebuild damaged relationships.
+  * “Continuous process improvement” may work for a couple of iterations.
+      * After that, it’s stale. 
+      * Switch to a different goal.
+* Selecting Activities
+    * Icebreakers, energizers, and games that don’t relate
+        to the work don’t fit in retrospectives
+          * There’s only so much time, so don’t waste it with activities that are “just for fun.” 
+          * Have fun, but have a purpose.
+    * Have a Backup
+          * Choose two activities for each stage—one short and one long.
+            Substitute the shorter activity if time is tight.
+* making sure people who have something to
+  say have the chance and making sure people who have a lot to say
+  don’t dominate
 
 # phases
 1. set the stage
@@ -87,6 +141,7 @@ did both during the iteration and during the retrospective
     * look at what went well and what you could do differently in the next retrospective
 
 # scenarios
+* compose retro by picking one activity from every group
 
 ## activities to set the stage
 * activity: **check-in**
