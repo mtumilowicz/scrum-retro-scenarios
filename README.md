@@ -238,7 +238,31 @@ did both during the iteration and during the retrospective
 
 ## activities to decide what to do
 * activity: **retrospective planning game**
+    * purpose: develop detailed plans for experiments or proposals
+    * time: 40-75 minutes
+    * description
+        * team members work individually or in pairs to brainstorm all the tasks
+        necessary to complete an improvement
+    * steps
+        1. introduce the activity by saying, "we’re going to work on generating all the 
+        tasks needed to have our improvement succeed"
+        1. recap the improvement
+        1. order the cards
+            * start by asking: "which task must be done first?"
+        1. ask, "are there any tasks that can be done simultaneously with this task?"
+        1. invite team members to sign up for tasks by writing their names on the bottom 
+        half of the task cards
 * activity: **SMART goals**
+    * purpose: translate ideas into priorities and action plans 
+    * time: 20-60 minutes
+    * description
+        * SMART: Specific, Measurable, Attainable, Relevant, and Timely. 
+    * Steps
+        1. offer an example of a SMART goal
+            * "Our goal is to pair program at least 5 hours a day starting next Monday. 
+            We’ll rotate pairs daily. We’ll create a chart with the pairing schedule, and
+            review it at our next retrospective."
+            * contrast a non-SMART goal: "we should pair more"
 
 ## activities to close the retrospective
 * activity: **+/delta**
