@@ -130,8 +130,63 @@ did both during the iteration and during the retrospective
 
 ## activities to gather data
 * activity: timeline
-* activity: locate strengths
+    * purpose
+        * stimulate memories of what happened during the increment
+        * create a picture of the work from many perspectives
+        * see patterns or when energy levels changed
+    * time: 30-90 minutes
+    * description
+        * group members write cards to represent memorable, personally meaningful, 
+        or otherwise significant events during the iteration and then post them in 
+        (roughly) chronological order
+    * steps
+        1. set up the activity by saying "we’ll fill in a timeline to create a
+           fuller picture of this iteration/release/project; we want to see it
+           from many perspectives"
+        1. divide the team into small groups, with no more than five in a group
+            * keep people who worked closely with each other together
+        1. describe the process
+        1. when all the cards are posted, invite the team to walk by the timeline and 
+        see what others have posted
 * activity: like to like
+    * purpose
+        * help team members recall their experiences during the iteration, and hear that 
+        others may have perceived it differently
+    * time: 30-40 minutes
+    * description
+        * team members take turns judging which events or factors about their
+        iteration are the best fits for quality cards
+            * cards: Fun, On Time, Clear, Meaningful, Affordable, Integrated, Educational, 
+            Talented, Smooth, Cool, Speedy, Collaborative, Awesome, Trustworthy, Dangerous, 
+            Frustrating, Creepy, Nasty or others
+        * as the cards are evaluated, team members learn about each other’s perspective 
+        on the same events or conditions
+    * steps
+        1. Ask each team member to write at least nine index cards for play-
+        ing the Like to Like game: 
+            * three or more cards with things to stop doing 
+            * three or more cards with things to keep doing
+            * three or more things to start doing
+            * shuffle the deck of colored “quality” cards and lay the pile face down on a table
+        1. when the game cards are ready, invite the team to stand around
+        the table. 
+            * choose one person to start as "judge" 
+                * he turns over a "quality" card from the pile and puts it  face up on the table
+            * all other team members look in their game cards for the one that
+            most closely matches the "quality" card and place their cards face down 
+            * last card down is disqualified and returns to its owner’s hand
+            * this keeps the game moving
+        1. "judge" stirs the players’ cards, turns them over one at a time, and reads them. 
+            * he chooses the card that makes the best match with the "quality" card
+                * author of that card wins the “quality” card
+        1. role of "judge" passes left to the next person, and another "quality" card is turned over 
+            * after six to nine rounds (or whenever everyone runs out of cards), the game ends
+        1. person with the most “quality” cards wins
+        1. debrief with questions
+            * "what surprised you? where were you challenged?"
+            * "What insight do you have about this? what does this tell you about our project?”
+            * "what’s one thing you might do differently?"
+
 
 ## activities to generate insights
 * activity: brainstorming/filtering
