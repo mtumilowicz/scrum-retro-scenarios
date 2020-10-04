@@ -89,7 +89,7 @@ did both during the iteration and during the retrospective
 # scenarios
 
 ## activities to set the stage
-* activity: Check-In
+* activity: **check-in**
     * purpose: help people articulate what they want from the retrospective
     * time: 5 - 10 minutes
     * description
@@ -105,7 +105,7 @@ did both during the iteration and during the retrospective
         1. go around the room listening to each person’s answer
             * thank each person
             * refrain from offering evaluative comments such as "good" or "wonderful"
-* activity: ESVP
+* activity: **ESVP**
     * purpose: understand people’s attitudes to the retrospective
     * time: 10-15 minutes
     * description
@@ -129,7 +129,7 @@ did both during the iteration and during the retrospective
     the break, they are choosing to attend the retrospective — they aren’t prisoners anymore
 
 ## activities to gather data
-* activity: timeline
+* activity: **timeline**
     * purpose
         * stimulate memories of what happened during the increment
         * create a picture of the work from many perspectives
@@ -148,7 +148,7 @@ did both during the iteration and during the retrospective
         1. describe the process
         1. when all the cards are posted, invite the team to walk by the timeline and 
         see what others have posted
-* activity: like to like
+* activity: **like to like**
     * purpose
         * help team members recall their experiences during the iteration, and hear that 
         others may have perceived it differently
@@ -187,16 +187,15 @@ did both during the iteration and during the retrospective
             * "What insight do you have about this? what does this tell you about our project?”
             * "what’s one thing you might do differently?"
 
-
 ## activities to generate insights
-* activity: brainstorming/filtering
-* activity: prioritize with dots
+* activity: **brainstorming/filtering**
+* activity: **prioritize with dots**
 
 ## activities to decide what to do
-* activity: retrospective planning game
-* activity: SMART goals
+* activity: **retrospective planning game**
+* activity: **SMART goals**
 
 ## activities to close the retrospective
-* activity: +/delta
-* activity: appreciations
-* activity: return on time invested (ROTI)
+* activity: **+/delta**
+* activity: **appreciations**
+* activity: **return on time invested (ROTI)**
