@@ -189,7 +189,52 @@ did both during the iteration and during the retrospective
 
 ## activities to generate insights
 * activity: **brainstorming/filtering**
+    * purpose: generate a large number of ideas and filter them against a defined set of criteria
+    * time: 40-60 minutes
+    * steps
+        1. describe the guidelines for brainstorming.
+            * challenge the group to come up with fifty ideas, and set the time limit, usually 
+            10-15 minutes
+        1. brainstorm using one of three methods:
+            * method 1: free-for-all: people call out ideas at random
+                * problem with traditional brainstorming is that it favors people who are 
+                comfortable thinking aloud 
+            * method 2: round-robin: pass a "talking token" around the circle 
+                * only the person holding the talking token can talk 
+                * it’s OK to pass when your turn comes
+                * helps people who aren’t comfortable shouting out in a group participate and 
+                leaves an escape (saying “pass”) to people who haven’t thought of anything... yet
+            * method 3: give people 5-7 minutes to silently and individually generate 
+            and write down ideas
+                * when the time is up, use method 1 or 2
+                * helps people who need time to gather their thoughts time to do that
+        1. ask the group what filters they should apply to the ideas 
+            * accept four to eight suggestions, discuss, and then vote on the top four 
+        1. apply the filters one at a time to the ideas on the brainstorm lists
+            * look for ideas that pass all four filters.
+        1. ask for comments on the ideas 
+            * ask the group which ideas they want to carry forward 
+            * ask whether anyone feels strongly about taking responsibility for any of the ideas 
+                * if someone feels strongly, it’s a good bet to carry forward 
+                * otherwise, use the simple majority vote
 * activity: **prioritize with dots**
+    * purpose: to gauge how the group prioritizes a long list of candidate changes, proposals, etc.
+    * time: 5-20 minutes
+    * description: team members prioritize the top issues, ideas, or proposals
+    * steps
+        1. post a legend allocating the dots as follows:
+            ```
+            #1 priority receives four dots.
+            #2 priority receives three dots.
+            #3 priority receives two dots.
+            #4 priority receives one dot.
+            ```
+        1. when there are clear winners, ask the group whether they want to proceed with these items
+            * people can think an item is important and still not want to work on it. 
+    * some variations to consider:
+        * which is the most important to work on?
+        * which will have the greatest impact?
+        * which do you want to work on most?
 
 ## activities to decide what to do
 * activity: **retrospective planning game**
