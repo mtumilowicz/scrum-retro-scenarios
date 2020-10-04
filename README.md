@@ -8,23 +8,23 @@ Scenarios for scrum retrospective.
 # preface
 
 # phases
-1. Set the stage.
-1. Gather data.
-1. Generate insights.
-1. Decide what to do.
-1. Close the retrospective.
+1. set the stage
+1. gather data
+1. generate insights
+1. decide what to do
+1. close the retrospective
 
 * for two-hour retrospective:
-    * Set the stage 5% - 6 minutes
-    * Gather data 30–50% - 40 minutes
-    * Generate insights 20–30% - 25 minutes
-    * Decide what to do 15–20% - 20 minutes
-    * Close the retrospective 10% - 12 minutes
-    * Shuffle time 10–15% - 17 minutes
-    * Total 100% - 120 minutes
+    * set the stage 5% - 6 minutes
+    * gather data 30–50% - 40 minutes
+    * generate insights 20–30% - 25 minutes
+    * decide what to do 15–20% - 20 minutes
+    * close the retrospective 10% - 12 minutes
+    * shuffle time 10–15% - 17 minutes
+    * total 100% - 120 minutes
         * breaks when there is a logical stopping point, when energy drops, or when people express a need
 
-## Set the Stage
+## set the stage
 1. start with a simple welcome and appreciation for people’s investment of time
 1. restate the purpose of the retrospective and the goal for the session
 1. remind people of how long you’ll meet
@@ -40,7 +40,7 @@ Scenarios for scrum retrospective.
     * example
         * working agreement "Mobile phones on silent during meetings"
 
-## Gather Data
+## gather data
 * gathering data creates a shared picture of what happened
     * different people have different perspectives on the same event
 * start with the hard data: events, metrics, features or stories completed, and so forth
@@ -63,14 +63,14 @@ Scenarios for scrum retrospective.
                 * how was it to be on this iteration?
                 * when were you mad/sad/surprised...?
 
-## Generate Insights
+## generate insights
 * lead the team to examine the conditions, interactions, and patterns that contributed to their success
     * ask "why?" and begin thinking about what to do differently
 * investigate breakdowns and deficiencies 
     * look for risks and unexpected events or outcomes
     * look at causes and effects, and think about them analytically
 
-## Decide What to Do
+## decide what to do
 * at this point, the team has a list of potential experiments and improvements
 * now is the time to pick the top items (usually no more than one or two for an 
 iteration) and plan what to do
@@ -80,8 +80,68 @@ iteration) and plan what to do
     change end up frustrated
     * place to start change is within the team
     
-## Close the Retrospective
+## close the retrospective
 * close the retrospective with an appreciation for the hard work everyone
 did both during the iteration and during the retrospective
 * take a few minutes to perform a retrospective on the retrospective
     * look at what went well and what you could do differently in the next retrospective
+
+# scenarios
+
+## activities to set the stage
+* activity: Check-In
+    * purpose: help people articulate what they want from the retrospective
+    * time: 5 - 10 minutes
+    * description
+        * each person answers with a word or short phrase
+        * each person answers in round-robin fashion
+    * Steps
+        1. ask one question
+            * what is one word that describes what you need for yourself from this session?
+            * in one or two words, what is happening for you right now?
+            * in a word or two, what are your hopes for the retrospective?
+            * what is one thing that’s on your mind?
+            * coming into this retrospective, if you were a car, what kind of car would you be?
+        1. go around the room listening to each person’s answer
+            * thank each person
+            * refrain from offering evaluative comments such as "good" or "wonderful"
+* activity: ESVP
+    * purpose: understand people’s attitudes to the retrospective
+    * time: 10-15 minutes
+    * description
+        * each participant reports (anonymously) his attitude toward the
+        retrospective as an Explorer, Shopper, Vacationer, or Prisoner (ESVP)
+            * explorers are eager to discover new ideas and insights, and want to learn everything 
+            they can about the iteration/release/project
+            * shoppers will look over all the available information, and will
+            be happy to go home with one useful new idea
+            * vacationers aren’t interested in the work of the retrospective,
+            but are happy to be away from the daily grind
+            * prisoners feel that they’ve been forced to attend and would rather be doing  something else
+        * collect the results, create a histogram and discuss what the results mean for the group
+    * steps
+        1. explain that you are taking a poll to learn about how people view their participation in 
+        the retrospective
+        1. collect data
+        1. ask "what do you make of this data?"
+        1. lead a brief discussion about how the attitudes in the room will affect the retrospective
+    * if you plan to take a break in your retrospective, suggest that if people choose to return after 
+    the break, they are choosing to attend the retrospective — they aren’t prisoners anymore
+
+## activities to gather data
+* activity: timeline
+* activity: locate strengths
+* activity: like to like
+
+## activities to generate insights
+* activity: brainstorming/filtering
+* activity: prioritize with dots
+
+## activities to decide what to do
+* activity: retrospective planning game
+* activity: SMART goals
+
+## activities to close the retrospective
+* activity: +/delta
+* activity: appreciations
+* activity: return on time invested (ROTI)
