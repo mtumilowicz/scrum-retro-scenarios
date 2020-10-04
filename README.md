@@ -266,5 +266,30 @@ did both during the iteration and during the retrospective
 
 ## activities to close the retrospective
 * activity: **+/delta**
+    * purpose: retrospect on the retrospective and identify strengths and improvements
+    * time: 10-20 minutes
 * activity: **appreciations**
+    * purpose
+        * to allow team members to notice and appreciate each other 
+        * end the retrospective on a positive note
+    * time: 5-30 minutes
+    * description
+        * team members appreciate other team members for helping them, contributing, to 
+        the team, solving a problem, etc. 
+    * every time we use this activity, people make genuine and heartfelt appreciations
+        * you can see people light up when they receive an appreciation
 * activity: **return on time invested (ROTI)**
+    * purpose: help generate feedback on the retrospective process and gauge the
+      effectiveness of the session from the team members’ perspectives
+    * time: 10 minutes
+    * description
+    * steps
+        * questions to ask
+            * did the retrospective result in decisions that move the team forward?
+            * did team members receive useful information or answers to questions?
+            * were team members able to state and solve problems, find alternative solutions, and choose actions?
+        1. going around the circle, ask each team member to say the number that reflects their 
+        return on time invested
+        1. after everyone has responded
+            * ask those who rated the retrospective 2 or higher to say what benefits they received
+            * ask those who rated the retrospective 0 or 1, what they wanted but didn’t get
